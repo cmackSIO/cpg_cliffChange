@@ -3,9 +3,10 @@
 
 # There are 3 primary steps in this process:
 # 1. Isolate Cliffs
-### file names
+# classifierBuild
 
 # 2. Change detection
-##### files names 
+# run_m3c2
 
-# 3. 
+# 3. Clustering and volume extraction
+# dbscan_v0
